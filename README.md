@@ -10,6 +10,7 @@ Chrysalis is a mobile application designed to foster a supportive community arou
 - [Tech Stack](#tech-stack)
 - [Contributors](#contributors)
 - [Contact](#contact)
+- [Timeline](#timeline)
 
 ## Idea and Motivation
 
@@ -45,3 +46,9 @@ You can contact us using our information below:
 
 - Eddie Chen : eddiechn12@gmail.com
 - Nathan Audegond: nathan.audegond@hotmail.com
+
+## Timeline
+
+### November 2024
+
+### October 2024
