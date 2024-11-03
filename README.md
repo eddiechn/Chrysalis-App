@@ -1,5 +1,7 @@
 # Chrysalis: Social Mental Health App
 
+### This is a placeholder repository for the Chrysalis App. The full codebase is private, but this page provides an overview of the project and its goals. If you're a recruiter or developer interested in learning more about Chrysalis and our approach, feel free to reach out through the contact details below. We’d be happy to discuss the technical aspects and share insights into our development process!
+
 Chrysalis is a mobile application designed to foster a supportive community around mental health. Users answer a daily prompt related to mental well-being and are matched with peers based on the similarity of their responses, encouraging meaningful connections and conversations.
 
 ## Table of Contents
