@@ -51,4 +51,11 @@ You can contact us using our information below:
 
 ### November 2024
 
+- Built an LLM data generation pipeline with back-translation, creating 50,000+ similarity entries for mental health peer matching. (Eddie)
+- Fine-tuned an SBERT model, reducing MSE by 67% (0.46 to 0.15) for improved user similarity matching. (Eddie)
+
 ### October 2024
+
+- Set up the Spring Boot backend in Kotlin with a REST API, integrated with a PostgreSQL database on Azure to manage user data. (Eddie)
+
+- Eclosion : The journey of Chrysalis begins
